@@ -19,6 +19,10 @@ body {
     transform: transform 100ms;
 }
 
+#question {
+    font-size: large;
+}
+
 .choice-prefix {
     padding: 2rem 2.5rem;
     color: white;
